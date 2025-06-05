@@ -1,0 +1,124 @@
+{
+  "ujian": [
+    {
+      "mata_pelajaran": "Bahasa Inggris",
+      "nilai": 78,
+      "jawabanPG": {
+        "1": "a",
+        "2": "c",
+        "3": "c",
+        "4": "b",
+        "5": "c",
+        "6": "c",
+        "7": "c",
+        "8": "c",
+        "9": "b",
+        "10": "b"
+      },
+      "jawabanEssay": {
+        "11": "Much untuk benda tidak bisa dihitung, many untuk yang bisa dihitung",
+        "12": "Hobi favorit membaca dan menulis, suka berkreasi",
+        "13": "Belajar bahasa Inggris penting komunikasi global dan pendidikan",
+        "14": "Who subjek, whom objek dalam kalimat",
+        "15": "Contoh kalimat kompleks belajar sambil dengar musik"
+      },
+      "tanggal": "2025-06-06T14:00:00.000Z"
+    },
+    {
+      "mata_pelajaran": "Bahasa Indonesia",
+      "nilai": 85,
+      "jawabanPG": {
+        "1": "c",
+        "2": "c",
+        "3": "c",
+        "4": "b",
+        "5": "b",
+        "6": "a",
+        "7": "d",
+        "8": "b",
+        "9": "b",
+        "10": "a"
+      },
+      "jawabanEssay": {
+        "11": "Teks narasi cerita peristiwa urutan waktu, teks eksposisi berisi fakta",
+        "12": "Ekstrakurikuler seni lukis, manfaat jadi kreatif",
+        "13": "Majas personifikasi gaya bahasa sifat manusia pada benda mati, contoh angin berbisik",
+        "14": "Bahasa gaul positif komunikasi santai, negatif kalau sulit dimengerti",
+        "15": "Menjaga kebersihan penting kesehatan, kenyamanan, cegah penyakit"
+      },
+      "tanggal": "2025-06-06T15:00:00.000Z"
+    },
+    {
+      "mata_pelajaran": "IPA",
+      "nilai": 90,
+      "jawabanPG": {
+        "1": "c",
+        "2": "a",
+        "3": "a",
+        "4": "a",
+        "5": "a",
+        "6": "a",
+        "7": "a",
+        "8": "b",
+        "9": "a",
+        "10": "a"
+      },
+      "jawabanEssay": {
+        "11": "Fotosintesis proses manfaat tumbuhan makhluk hidup",
+        "12": "Akar fungsi tumbuhan lingkungan",
+        "13": "Siklus air alam penting kehidupan",
+        "14": "Perubahan iklim dampak ekosistem pengurangan",
+        "15": "Sel hewan struktur fungsi perbedaan sel tumbuhan"
+      },
+      "tanggal": "2025-06-06T16:00:00.000Z"
+    },
+    {
+      "mata_pelajaran": "IPS",
+      "nilai": 88,
+      "jawabanPG": {
+        "1": "b",
+        "2": "b",
+        "3": "a",
+        "4": "a",
+        "5": "a",
+        "6": "b",
+        "7": "a",
+        "8": "b",
+        "9": "b",
+        "10": "c"
+      },
+      "jawabanEssay": {
+        "11": "Globalisasi dampak positif negatif sosial Indonesia",
+        "12": "Urbanisasi penyebab dampak kota besar Indonesia",
+        "13": "Sumber daya alam peran perekonomian Indonesia contoh",
+        "14": "Perubahan iklim pengaruh manusia lingkungan contoh",
+        "15": "Lembaga pemerintahan fungsi stabilitas politik sosial negara"
+      },
+      "tanggal": "2025-06-06T17:00:00.000Z"
+    },
+    {
+      "mata_pelajaran": "Matematika",
+      "nilai": 92,
+      "jawabanPG": {
+        "1": "b",
+        "2": "c",
+        "3": "a",
+        "4": "b",
+        "5": "b",
+        "6": "a",
+        "7": "b",
+        "8": "a",
+        "9": "b",
+        "10": "b"
+      },
+      "jawabanEssay": {
+        "11": "Luas lingkaran dihitung dengan rumus π x r²",
+        "12": "Keliling segitiga adalah jumlah semua sisi, contoh: sisi 3,4,5 keliling 12",
+        "13": "12 + 15 - 7 = 20, penjumlahan dan pengurangan berurutan",
+        "14": "Bilangan prima hanya punya dua faktor, bilangan komposit lebih dari dua faktor",
+        "15": "Peluang 3 bola merah dari 5 diambil secara acak menggunakan kombinasi"
+      },
+      "tanggal": "2025-06-06T18:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+[
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 40,
+    "jawabanPG": {
+      "1": "10",
+      "2": "7",
+      "3": "Segitiga",
+      "4": "29",
+      "5": "14 cm²",
+      "6": "45°",
+      "7": "25",
+      "8": "4",
+      "9": "6",
+      "10": "Lingkaran"
+    },
+    "jawabanEssay": {
+      "1": "swksjqwkld",
+      "2": "djwejdlk",
+      "3": "djadjenqjd",
+      "4": "dnjewdjwe",
+      "5": "djdlwe"
+    },
+    "tanggal": "2025-06-05T09:22:29.493Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 58,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "b",
+      "4": "b",
+      "5": "c",
+      "6": "d",
+      "7": "b",
+      "8": "b",
+      "9": "d",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "cndkfkler",
+      "12": "fnjkfe",
+      "13": "fjwrfrf",
+      "14": "fwjfker",
+      "15": "fjewfer"
+    },
+    "tanggal": "2025-06-05T09:29:22.355Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 12,
+    "jawabanPG": {
+      "1": "b",
+      "2": "b",
+      "3": "b",
+      "4": "b",
+      "5": "b"
+    },
+    "jawabanEssay": {
+      "11": "frkrekf",
+      "12": "jkrjk4",
+      "13": "rmwker3lerfjewjkfk",
+      "14": "fklewkf",
+      "15": "flewrkf"
+    },
+    "tanggal": "2025-06-05T09:36:49.777Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 8,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "c",
+      "4": "d",
+      "5": "a",
+      "6": "c",
+      "7": "d",
+      "8": "b",
+      "9": "a",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "wm,",
+      "12": "dmm",
+      "13": "nsj",
+      "14": "reg",
+      "15": "efgtrfe"
+    },
+    "tanggal": "2025-06-05T10:14:07.603Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa Inggris",
+    "nilai": 24,
+    "jawabanPG": {
+      "1": "b",
+      "2": "d",
+      "3": "b",
+      "4": "a",
+      "5": "b",
+      "6": "b",
+      "7": "a",
+      "8": "b",
+      "9": "c",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "dj3lf4",
+      "12": "d4nmncks",
+      "13": "dehjfr",
+      "14": "ffjer",
+      "15": "rfj"
+    },
+    "tanggal": "2025-06-05T15:46:56.893Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa Inggris",
+    "nilai": 70,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "a",
+      "4": "c",
+      "5": "c",
+      "6": "c",
+      "7": "b",
+      "8": "b",
+      "9": "b",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "wjwkdejqde",
+      "12": "ehidhwie",
+      "13": "deuiwed",
+      "14": "dwjkedhew",
+      "15": "wedbwen"
+    },
+    "tanggal": "2025-06-05T15:50:07.618Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa Inggris",
+    "nilai": 40,
+    "jawabanPG": {
+      "1": "a",
+      "2": "b",
+      "3": "b",
+      "4": "c",
+      "5": "c",
+      "6": "c",
+      "7": "c",
+      "8": "d",
+      "9": "d",
+      "10": "a"
+    },
+    "jawabanEssay": {
+      "11": "edjehiihj",
+      "12": "edwej",
+      "13": "whdewhideh",
+      "14": "dwje",
+      "15": "dehew"
+    },
+    "tanggal": "2025-06-05T15:53:21.525Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 46,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "a",
+      "4": "c",
+      "5": "a",
+      "6": "a",
+      "7": "b",
+      "8": "c",
+      "9": "b",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "dcsjj",
+      "12": "dnwejn",
+      "13": "ewdwje",
+      "14": "dejnw",
+      "15": "dewjd"
+    },
+    "tanggal": "2025-06-05T15:54:29.075Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 20,
+    "jawabanPG": {
+      "1": "a",
+      "2": "b",
+      "3": "d",
+      "4": "a",
+      "5": "a",
+      "6": "a",
+      "7": "b",
+      "8": "d",
+      "9": "c",
+      "10": "d"
+    },
+    "jawabanEssay": {
+      "11": "shhs",
+      "12": "shswhw",
+      "13": "sbsh",
+      "14": "sbsb",
+      "15": "sbsh"
+    },
+    "tanggal": "2025-06-05T16:03:05.484Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 18,
+    "jawabanPG": {
+      "1": "a",
+      "2": "b",
+      "3": "c",
+      "4": "d",
+      "5": "b",
+      "6": "c",
+      "7": "a",
+      "8": "a",
+      "9": "a",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "kmkkm",
+      "12": "kk",
+      "13": "mkk",
+      "14": "mkkm",
+      "15": "jjn"
+    },
+    "tanggal": "2025-06-05T16:05:41.634Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 12,
+    "jawabanPG": {
+      "1": "a",
+      "2": "b",
+      "3": "c",
+      "4": "c",
+      "5": "b",
+      "6": "a",
+      "7": "c",
+      "8": "b",
+      "9": "a",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "ssd",
+      "12": "ded",
+      "13": "wre",
+      "14": "ftrtg",
+      "15": "gtgtr"
+    },
+    "tanggal": "2025-06-05T16:09:02.177Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 16,
+    "jawabanPG": {
+      "1": "a",
+      "2": "b",
+      "3": "d",
+      "4": "d",
+      "5": "c",
+      "6": "b",
+      "7": "d",
+      "8": "d",
+      "9": "a",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "dede",
+      "12": "eeerdfe",
+      "13": "gtgtrrt",
+      "14": "gtgr",
+      "15": "ggyr"
+    },
+    "tanggal": "2025-06-05T16:11:45.847Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 26,
+    "jawabanPG": {
+      "1": "a",
+      "2": "d",
+      "3": "d",
+      "4": "a",
+      "5": "b",
+      "6": "c",
+      "7": "d",
+      "8": "a",
+      "9": "b",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "djjnd",
+      "12": "djjd",
+      "13": "jjd",
+      "14": "sjsjjdjj",
+      "15": "snjjn"
+    },
+    "tanggal": "2025-06-05T16:14:39.005Z"
+  },
+  {
+    "mata_pelajaran": "Matematika",
+    "nilai": 6,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "b",
+      "4": "c",
+      "5": "c",
+      "6": "d",
+      "7": "d",
+      "8": "d",
+      "9": "b",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "xsxsc",
+      "12": "sd",
+      "13": "vff",
+      "14": "fvv",
+      "15": "vfvd"
+    },
+    "tanggal": "2025-06-05T16:20:24.099Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa Inggris",
+    "nilai": 30,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "c",
+      "4": "c",
+      "5": "a",
+      "6": "c",
+      "7": "c",
+      "8": "b",
+      "9": "d",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "fejf",
+      "12": "frjhf",
+      "13": "rjrf",
+      "14": "ejjef",
+      "15": "frhe"
+    },
+    "tanggal": "2025-06-05T16:23:55.990Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa Indonesia",
+    "nilai": 52,
+    "jawabanPG": {
+      "1": "d",
+      "2": "c",
+      "3": "a",
+      "4": "a",
+      "5": "a"
+    },
+    "jawabanEssay": {
+      "11": "hdhhed",
+      "12": "dbdbhedw",
+      "13": "hedjhd",
+      "14": "dbndbn",
+      "15": "njdwnbd"
+    },
+    "tanggal": "2025-06-05T16:38:17.853Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa Indonesia",
+    "nilai": 3,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "b",
+      "4": "a",
+      "5": "c",
+      "6": "d",
+      "7": "c",
+      "8": "a",
+      "9": "b",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "dnmndc",
+      "12": "sbasb",
+      "13": "sabas",
+      "14": "asbnas",
+      "15": "xsbnas"
+    },
+    "tanggal": "2025-06-05T16:59:43.902Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa IPS",
+    "nilai": 20,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "a",
+      "4": "a",
+      "5": "b",
+      "6": "c",
+      "7": "a",
+      "8": "b",
+      "9": "b",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "ehehj",
+      "12": "ehjehj",
+      "13": "ebneb",
+      "14": "ehwh",
+      "15": "wehwe"
+    },
+    "tanggal": "2025-06-05T17:10:27.292Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa IPS",
+    "nilai": 10,
+    "jawabanPG": {
+      "1": "a",
+      "2": "a",
+      "3": "a",
+      "4": "d",
+      "5": "c",
+      "6": "b",
+      "7": "b",
+      "8": "b",
+      "9": "d",
+      "10": "d"
+    },
+    "jawabanEssay": {
+      "11": "bsbnbs",
+      "12": "fefr",
+      "13": "fer",
+      "14": "fwew",
+      "15": "frfr"
+    },
+    "tanggal": "2025-06-05T17:13:57.266Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa IPS",
+    "nilai": 10,
+    "jawabanPG": {
+      "1": "a",
+      "2": "d",
+      "3": "a",
+      "4": "a",
+      "5": "b",
+      "6": "a",
+      "7": "c",
+      "8": "a",
+      "9": "c",
+      "10": "c"
+    },
+    "jawabanEssay": {
+      "11": "dsferr",
+      "12": "rert",
+      "13": "geget",
+      "14": "geet",
+      "15": "gtrrtg"
+    },
+    "tanggal": "2025-06-05T17:19:03.436Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa IPA",
+    "nilai": 10,
+    "jawabanPG": {
+      "1": "a",
+      "2": "c",
+      "3": "c",
+      "4": "a",
+      "5": "a",
+      "6": "d",
+      "7": "c",
+      "8": "c",
+      "9": "a",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "bhdebdsahdh",
+      "12": "dshgdh",
+      "13": "sahsh",
+      "14": "xsHASH",
+      "15": "dhdhd"
+    },
+    "tanggal": "2025-06-05T17:31:34.166Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa IPS",
+    "nilai": 3,
+    "jawabanPG": {
+      "1": "a",
+      "2": "b",
+      "3": "b",
+      "4": "c",
+      "5": "d",
+      "6": "c",
+      "7": "d",
+      "8": "d",
+      "9": "c",
+      "10": "a"
+    },
+    "jawabanEssay": {
+      "11": "vd bgfbfd",
+      "12": "rfef",
+      "13": "rffe",
+      "14": "fwfe",
+      "15": "frfe"
+    },
+    "tanggal": "2025-06-05T18:49:16.833Z"
+  },
+  {
+    "mata_pelajaran": "Bahasa IPA",
+    "nilai": 27,
+    "jawabanPG": {
+      "1": "a",
+      "2": "c",
+      "3": "c",
+      "4": "b",
+      "5": "c",
+      "6": "a",
+      "7": "c",
+      "8": "c",
+      "9": "a",
+      "10": "b"
+    },
+    "jawabanEssay": {
+      "11": "Much untuk benda tidak bisa dihitung, many untuk yang bisa dihitung\"",
+      "12": "hjaj",
+      "13": "xsbxa",
+      "14": "xsnx",
+      "15": "njxjnx"
+    },
+    "tanggal": "2025-06-05T18:54:34.446Z"
+  }
+]
